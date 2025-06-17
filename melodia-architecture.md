@@ -1,4 +1,4 @@
-# Singing Fingers Clone - Application Architecture Plan
+# Melodia - Application Architecture Plan
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
